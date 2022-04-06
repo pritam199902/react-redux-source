@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+
+.btn{
+  padding: 2px 15px;
+  margin: 2px 10px;
+  font-size: 20px;
+  font-weight: bolder;
+}
